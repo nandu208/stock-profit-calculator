@@ -43,7 +43,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/nandu208/stock-profit-calculator.git
 ```
-
+Open terminal at the folder.  
 ## Compile the Java Files using Maven
 
 ```bash
