@@ -57,7 +57,9 @@ mvn compile
 ```bash
 mvn exec:java -Dexec.mainClass="com.simcorp.stockprice.Main"
 ```
-
+1. Enter the `Stock Name` from `[apple, microsoft, tesla, netflix]`
+2. Enter the `year` for which profit needs to be calculated
+3. Please refer the screenshot below
 ## Sample Screen shot for Successful Execution of Main Method
 
 ![Alt Text](src/main/resources/images/execute.png)
